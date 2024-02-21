@@ -1,1 +1,2 @@
-﻿Console.WriteLine($"It works");
+﻿var z = 
+Console.WriteLine($"It works");
